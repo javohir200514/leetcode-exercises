@@ -1,4 +1,4 @@
-package easy.math.myPow;
+package medium.myPow;
 
 public class Solution {
     public double myPow(double x, int n) {
@@ -6,5 +6,4 @@ public class Solution {
         result=Math.pow(x,n);
         return result;
     }
-
 }
