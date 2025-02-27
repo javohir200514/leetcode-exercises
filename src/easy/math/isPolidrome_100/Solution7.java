@@ -1,4 +1,4 @@
-package easy.math.isPolidrome_73;
+package easy.math.isPolidrome_100;
 
 public class Solution7 {
     public boolean isPalindrome(int x) {
