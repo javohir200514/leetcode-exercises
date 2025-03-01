@@ -1,4 +1,4 @@
-package easy.math.twoSum_34;
+package easy.math.addTwoIntegers_100;
 
 
 public class Main {
