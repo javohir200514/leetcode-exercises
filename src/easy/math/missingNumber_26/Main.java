@@ -1,4 +1,4 @@
-package easy.math.missingNumber;
+package easy.math.missingNumber_26;
 
 public class Main {
     public static void main(String[] args) {

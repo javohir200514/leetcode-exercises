@@ -1,4 +1,4 @@
-package easy.math.missingNumber;
+package easy.math.missingNumber_26;
 
 import java.util.Arrays;
 
